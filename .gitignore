@@ -1,0 +1,4 @@
+__pycache__/
+messenger.db
+messenger.db-shm
+messenger.db-wal
